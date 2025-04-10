@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello! I'm Tammy Alsup👋
 
-<!--
-**tammyalsup/tammyalsup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director of Operations and Technology | Data Enthusiast 
+🔗 LinkedIn Profile
 
-Here are some ideas to get you started:
+About Me
+Data Nerd. Mom of twins. Traveling is my jam. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills to Pay the Bill
+🔹 Technical Skills
+Data Analytics & Visualization: SQL, Tableau, Power BI, Looker, Domo
+
+🔹 Soft Skills
+Leadership & Team Building 🤝
+Problem-Solving & Strategic Thinking 🧠
+Customer Engagement & Retention 📈
+Compliance & Regulatory Expertise ✅
+
+
+Thanks for stopping by! ⭐
