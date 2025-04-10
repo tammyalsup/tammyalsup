@@ -2,7 +2,7 @@ Hello! I'm Tammy Alsup👋
 
 Director of Operations and Technology | Data Enthusiast 
 
-🔗 LinkedIn Profile
+🔗 LinkedIn Profile www.linkedin.com/in/tammy-alsup-52b4b6178
 
 About Me
 
